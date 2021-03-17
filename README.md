@@ -20,9 +20,10 @@ To facilitate understanding, the challenges were organized in themes. Then, thes
 ### Curriculum
 
 ```
-The Curriculum theme is related to the content, hourly load and the number of subjects needed to use DevOps. 
-The relationship between the DevOps discipline and the prerequisite disciplines of this subject is also 
-considered, as well as the interaction with the others of a software engineering course.
+The Curriculum theme is related to the content, hourly load and the number of 
+subjects needed to use DevOps. The relationship between the DevOps discipline 
+and the prerequisite disciplines of this subject is also considered, as well 
+as the interaction with the others of a software engineering course.
 ```
 
 - DevOps still received minor attention in higher education.
@@ -33,6 +34,12 @@ considered, as well as the interaction with the others of a software engineering
 - Courses teach “Dev” rather than “Ops”
 
 ### Tools
+```
+The Tool theme includes software used to operationalize DevOps practices. 
+They can be those widely used in the industry or those created with a teaching 
+standard.
+```
+
 - DevOps tools are new and time-consuming for a universitary lecturer.
 - Some devops tools involve learning curve.
 - DevOps tools are complex.
@@ -40,10 +47,19 @@ considered, as well as the interaction with the others of a software engineering
 - DevOps overhead of keeping up with the industrial state-of-the-art at universities is often too high.
 
 ### Assessment
+```
+The Assessment theme includes necessary and permanent didactic tasks in 
+the teacher's work with the objective of diagnosing the learning situation 
+of each student, in relation to the curriculum.
+```
 - Teaching DevOps mindset is difficult to assess.
 - DevOps increases evaluation workload for teachers.
 
 ### Classes preparation
+```
+The topic Classes preparation refers to the planning of the course, including, 
+for example, a research of reference material and preparation of classes.
+```
 - There is little research into effective teaching pratices for incorporating DevOps into traditional software engineer courses
 - Lack of a proper and sound theory of DevOps
 - DevOps has not yet standardized with the Software Engineerigin Body of Knowledge
@@ -51,6 +67,11 @@ considered, as well as the interaction with the others of a software engineering
 
 
 ### Devops concepts
+```
+The DevOps Concepts are related to its main foundations, techniques 
+and mentality (culture).
+
+```
 
 - Students have difficulties in explaining IaC
 - Teachers need to learn dev and opt activities
@@ -60,10 +81,18 @@ considered, as well as the interaction with the others of a software engineering
 - CD and related concepts are complex.
 
 ### Environment setup
+```
+The Environment setup theme refers to the preparatory activities 
+of the environments used in the practices of students' exercises and projects.
+```
 - DevOps requires complex and laborious architectures.
 - Setup the tools and workflows increases the effort for educators.
 
 ### Pedagogy
+```
+References to the subject of Pedagogy are related to a set of
+techniques, principles, methods and strategy for education and teaching.
+```
 - How to set up the DevOps approach itself from scratch.
 
 ## Contributors and contribute
