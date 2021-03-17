@@ -7,7 +7,7 @@ It's a repository that contains a set of challenges in DevOps teaching.
 
 - [Contributors and contribute](#contributors-and-contribute) - Informations about how to contribute.
 
-## Challenges 
+## Challenges teaching DevOps
 
 ### Curriculum
 - DevOps still received minor attention in higher education.
