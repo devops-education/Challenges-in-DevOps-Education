@@ -9,6 +9,12 @@ It's a repository that contains a set of challenges in DevOps teaching.
 
 ## Challenges teaching DevOps
 
+
+<p align="center"> 
+  <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/images/concept_map.png" width=60%  /> 
+</p>
+
+
 ### Curriculum
 - DevOps still received minor attention in higher education.
 - The time available to teach CD and CI is devoted to other concepts
