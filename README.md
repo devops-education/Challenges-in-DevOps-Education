@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/oie_png.png" width="40%"  /> 
+  <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/images/blob/main/oie_png.png" width="40%"  /> 
 </p>
 
 It's a repository that contains a set of challenges in DevOps teaching.
