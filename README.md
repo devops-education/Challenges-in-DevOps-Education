@@ -70,7 +70,6 @@ for example, a research of reference material and preparation of classes.
 ```
 The DevOps Concepts are related to its main foundations, techniques 
 and mentality (culture).
-
 ```
 
 - Students have difficulties in explaining IaC
