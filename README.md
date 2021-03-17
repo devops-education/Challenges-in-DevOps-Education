@@ -11,7 +11,7 @@ It's a repository that contains a set of challenges in DevOps teaching.
 
 
 <p align="center"> 
-  <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/images/concept_map.png" width=60%  /> 
+  <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/images/concept_map.png" width=85%  /> 
 </p>
 
 
