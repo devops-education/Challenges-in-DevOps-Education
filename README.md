@@ -13,6 +13,6 @@ You are more than welcome to contribute as well:
  - star Challenges-in-Devops-Education if you like it
  - open a bug or create a feature request
  - share your ideas via issue or slack
- - have a look at the [help wanted issues](https://github.com/ devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) if you would like to code (ping us on Slack if there are not any).
+ - have a look at the [help wanted issues](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) if you would like to code (ping us on Slack if there are not any).
 
 Please have a look at CONTRIBUTING.md for further suggestions and guidelines.
