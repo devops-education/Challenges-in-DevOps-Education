@@ -3,12 +3,12 @@
   <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/images/logo.png"   /> 
 </p>
 
-It's a repository that contains a set of challenges in DevOps teaching.
-
+It's a repository that contains a set of challenges in DevOps teaching. The objective is to help DevOps educators to teach DevOps. Some of theses challenges are found in the paper [Challenges and Recommendations in DevOps Education: A Systematic Literature Review](https://dl.acm.org/doi/abs/10.1145/3422392.3422496) published at the academic conference **SBES '20: Proceedings of the 34th Brazilian Symposium on Software Engineering**. 
 - [Contributors and contribute](#contributors-and-contribute) - Informations about how to contribute.
 
 ## Challenges teaching DevOps
 
+To facilitate understanding, the challenges were organized in themes. Then, theses are the following themes:
 
 <p align="center"> 
   <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/images/concepts_map.png" /> 
