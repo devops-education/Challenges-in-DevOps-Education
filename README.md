@@ -18,6 +18,13 @@ To facilitate understanding, the challenges were organized in themes. Then, thes
 
 
 ### Curriculum
+
+```
+The Curriculum theme is related to the content, hourly load and the number of subjects needed to use DevOps. 
+The relationship between the DevOps discipline and the prerequisite disciplines of this subject is also 
+considered, as well as the interaction with the others of a software engineering course.
+```
+
 - DevOps still received minor attention in higher education.
 - The time available to teach CD and CI is devoted to other concepts
 - Devops mindset should be considered to fine tune curricula.
