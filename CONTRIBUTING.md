@@ -22,7 +22,7 @@ This project and everyone participating in it is governed by [Code of Conduct](h
 - Do you want share you challenge?  
   [Share a new challenge](https://github.com/devops-education/Challenges-in-Devops-Education/issues/new?template=challenge_request.md&title=[Challenge]).
   
- - Do you have a recommendation for some of our challenges?
+ - Do you have a recommendation for some of our challenges?  
   [Share a new recommendation](https://github.com/devops-education/Challenges-in-Devops-Education/issues/new?template=recommendation_request.md&title=[Recommendation]).
   
 - Did you find a bug?  
@@ -67,9 +67,7 @@ Dealing with Git for the first time? Here are some recommendations for how to se
 
 You can read more on Git [here](https://git-scm.com/book/).
 
-Contact us on
-[slack](https://kotlinlang.slack.com/messages/C887ZKGCQ/)  
-whenever you need help to get up and running or have questions or simply write in the issue.
+Contact us on [slack](https://devops-education.slack.com/archives/C01RJV66G4V) whenever you have questions or simply write in the issue.
 
 We recommend you create a pull request (see [About pull requests](https://help.github.com/en/articles/about-pull-requests) for help)
 in case you are not sure how you should do something. 
