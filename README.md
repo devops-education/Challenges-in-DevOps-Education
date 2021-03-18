@@ -25,7 +25,7 @@ To facilitate understanding, the challenges were organized in themes. Then, thes
 </p>
 
 
-### Curriculum
+### [Curriculum](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
 The Curriculum theme is related to the content, hourly load and the number of 
@@ -47,7 +47,7 @@ as the interaction with the others of a software engineering course.
 - Courses teach “Dev” rather than “Ops”.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
-### Tools
+### [Tools](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Atools+label%3Achallenge-existed+)
 ```
 The Tool theme includes software used to operationalize DevOps practices. 
 They can be those widely used in the industry or those created with a teaching 
@@ -65,7 +65,7 @@ standard.
 - DevOps overhead of keeping up with the industrial state-of-the-art at universities is often too high.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
-### Assessment
+### [Assessment](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Aassessment+label%3Achallenge-existed+)
 ```
 The Assessment theme includes necessary and permanent didactic tasks in 
 the teacher's work with the objective of diagnosing the learning situation 
@@ -76,7 +76,7 @@ of each student, in relation to the curriculum.
 - DevOps increases evaluation workload for teachers.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
-### Classes preparation
+### [Classes preparation](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Aclasses-preparation+label%3Achallenge-existed+)
 ```
 The topic Classes preparation refers to the planning of the course, including, 
 for example, a research of reference material and preparation of classes.
@@ -91,7 +91,7 @@ for example, a research of reference material and preparation of classes.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 
-### Devops concepts
+### [Devops concepts](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Adevops-concepts+label%3Achallenge-existed+)
 ```
 The DevOps Concepts are related to its main foundations, techniques 
 and mentality (culture).
@@ -110,7 +110,7 @@ and mentality (culture).
 - Continuous Delivery and related concepts are complex.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
-### Environment setup
+### [Environment setup](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Aenvironment-setup+label%3Achallenge-existed+)
 ```
 The Environment setup theme refers to the preparatory activities 
 of the environments used in the practices of students' exercises and projects.
@@ -120,7 +120,7 @@ of the environments used in the practices of students' exercises and projects.
 - Setup the tools and workflows increases the effort for educators.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
-### Pedagogy
+### [Pedagogy](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Apedagogy+label%3Achallenge-existed+)
 ```
 References to the subject of Pedagogy are related to a set of
 techniques, principles, methods and strategy for education and teaching.
