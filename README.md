@@ -3,11 +3,28 @@
   <img style="margin: -30px;" src="/images/logo.png"   /> 
 </p>
 
-<div style="float: right;"> 
+<p align="center">
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devops-education&repo=&countColorcountColor&countColor=%237B1E7A)
+<a href="https://github.com/devops-education/Challenges-in-Devops-Education/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator licence" />
+</a>
+<a href="https://github.com/devops-education/Challenges-in-Devops-Education/fork" target="blank">
+<img src="https://img.shields.io/github/forks/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/devops-education/Challenges-in-Devops-Education/issues" target="blank">
+<img src="https://img.shields.io/github/issues/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/devops-education/Challenges-in-Devops-Education/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+<a href="https://discord.gg/HHMs7Eg" target="blank">
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=slack&style=flat-square" alt="join Slack community of DevOps Education"/>
+</a>
+</p>
 
-</div> 
 
 It's a repository that contains a set of challenges in DevOps teaching. The objective is to help DevOps educators to teach DevOps. Some of theses challenges are found in the paper [Challenges and Recommendations in DevOps Education: A Systematic Literature Review](https://dl.acm.org/doi/abs/10.1145/3422392.3422496) published at the academic conference **SBES '20: Proceedings of the 34th Brazilian Symposium on Software Engineering**. 
 
