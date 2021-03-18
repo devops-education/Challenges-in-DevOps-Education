@@ -6,8 +6,11 @@
 
 It's a repository that contains a set of challenges in DevOps teaching. The objective is to help DevOps educators to teach DevOps. Some of theses challenges are found in the paper [Challenges and Recommendations in DevOps Education: A Systematic Literature Review](https://dl.acm.org/doi/abs/10.1145/3422392.3422496) published at the academic conference **SBES '20: Proceedings of the 34th Brazilian Symposium on Software Engineering**. 
 
-- [Challenges teaching DevOps](#challenges-teaching-devops) - Set of challenges thematized.
-- [Contributors and contribute](#contributors-and-contribute) - How to contribute.
+### Table of Content
+
+- [Challenges teaching DevOps](#challenges-teaching-devops) 
+- [Contributors and contribute](#contributors-and-contribute)
+- [License](#license) 
 
 ## Challenges teaching DevOps
 
@@ -106,3 +109,7 @@ You are more than welcome to contribute as well:
  - have a look at the [help wanted issues](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) if you would like to code (ping us on [Slack](https://devops-education.slack.com/archives/C01RJV66G4V) if there are not any).
 
 Please have a look at CONTRIBUTING.md for further suggestions and guidelines.
+
+## License
+
+This repository is licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0).
