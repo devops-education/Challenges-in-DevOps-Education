@@ -104,7 +104,6 @@ Our thanks go to [code contributors](https://github.com/CSC-DevOps/Course) as we
 You are more than welcome to contribute as well:
 
  - star this repository if you like it
- - share your ideas via issue or [Slack](https://devops-education.slack.com/archives/C01RJV66G4V)
- - have a look at the [help wanted issues](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) if you would like to code (ping us on [Slack](https://devops-education.slack.com/archives/C01RJV66G4V) if there are not any).
-
+ - share your challenge (or recommendation) via issue or [Slack](https://devops-education.slack.com/archives/C01RJV66G4V)
+ 
 Please have a look at CONTRIBUTING.md for further suggestions and guidelines.
