@@ -13,7 +13,7 @@ It's a repository that contains a set of challenges in DevOps teaching. The obje
 To facilitate understanding, the challenges were organized in themes. Then, theses are the following themes:
 
 <p align="center"> 
-  <img style="margin: -30px;" src="https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/images/concepts_map.png" /> 
+  <img style="margin: -30px;" src="/images/concepts_map.png" /> 
 </p>
 
 
