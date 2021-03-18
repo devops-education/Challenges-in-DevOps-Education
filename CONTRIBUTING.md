@@ -1,6 +1,6 @@
-# Contributing to Atrium
+# Contributing :smiley:
 
-Thank you very much for taking your time to contribute :smiley:
+Thank you very much for taking your time to contribute :grin: 
 
 Following a few guidelines so that others can quickly benefit from your contribution.
 
