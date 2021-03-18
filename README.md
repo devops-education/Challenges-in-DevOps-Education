@@ -10,7 +10,6 @@ It's a repository that contains a set of challenges in DevOps teaching. The obje
 
 - [Challenges teaching DevOps](#challenges-teaching-devops) 
 - [Contributors and contribute](#contributors-and-contribute)
-- [License](#license) 
 
 ## Challenges teaching DevOps
 
@@ -109,7 +108,3 @@ You are more than welcome to contribute as well:
  - have a look at the [help wanted issues](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) if you would like to code (ping us on [Slack](https://devops-education.slack.com/archives/C01RJV66G4V) if there are not any).
 
 Please have a look at CONTRIBUTING.md for further suggestions and guidelines.
-
-## License
-
-This repository is licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0).
