@@ -39,6 +39,7 @@ as the interaction with the others of a software engineering course.
 - The time available to teach CD and CI is devoted to other concepts.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 - Devops mindset should be considered to fine tune curricula.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 - Teaching DevOps is multidisciplinary and therefore crosscutting the traditional course boundaries.
   - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 - The little time available to teaching complexities of CD and CI.
