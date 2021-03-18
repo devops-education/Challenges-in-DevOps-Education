@@ -30,7 +30,7 @@ as the interaction with the others of a software engineering course.
 ```
 
 - [C1] DevOps still received minor attention in higher education.
-- [C2] The time available to teach CD and CI is devoted to other concepts
+- [C2] The time available to teach CD and CI is devoted to other concepts.
 - [C3] Devops mindset should be considered to fine tune curricula.
 - [C4] Teaching DevOps is multidisciplinary and therefore crosscutting the traditional course boundaries.
 - [C5] The little time available to teaching complexities of CD and CI.
@@ -63,10 +63,10 @@ of each student, in relation to the curriculum.
 The topic Classes preparation refers to the planning of the course, including, 
 for example, a research of reference material and preparation of classes.
 ```
-- [CP1] There is little research into effective teaching pratices for incorporating DevOps into traditional software engineer courses
-- [CP2] Lack of a proper and sound theory of DevOps
-- [CP3] DevOps has not yet standardized with the Software Engineerigin Body of Knowledge
-- [CP4] Limited research in teaching DevOps
+- [CP1] There is little research into effective teaching pratices for incorporating DevOps into traditional software engineer courses.
+- [CP2] Lack of a proper and sound theory of DevOps.
+- [CP3] DevOps has not yet standardized with the Software Engineerigin Body of Knowledge.
+- [CP4] Limited research in teaching DevOps.
 
 
 ### Devops concepts
@@ -75,8 +75,8 @@ The DevOps Concepts are related to its main foundations, techniques
 and mentality (culture).
 ```
 
-- [DC1] Students have difficulties in explaining IaC
-- [DC2] Teachers need to learn dev and opt activities
+- [DC1] Students have difficulties in explaining IaC.
+- [DC2] Teachers need to learn dev and opt activities.
 - [DC3] The main challenge was to find ways of emphasizing the Ops part of the approach.
 - [DC4] Teach DevOps mindset/cultural.
 - [DC5] Teachers need to learn operations.
@@ -99,11 +99,11 @@ techniques, principles, methods and strategy for education and teaching.
 
 ## Contributors and contribute
 
-Our thanks go to [code contributors](https://github.com/CSC-DevOps/Course) as well as other contributors.
+Our thanks to everyone who helped this project.
 
 You are more than welcome to contribute as well:
 
  - star this repository if you like it
  - share your challenge (or recommendation) via issue or [Slack](https://devops-education.slack.com/archives/C01RJV66G4V)
  
-Please have a look at CONTRIBUTING.md for further suggestions and guidelines.
+Please have a look at [CONTRIBUTING.md](https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/CONTRIBUTING.md) for further suggestions and guidelines.
