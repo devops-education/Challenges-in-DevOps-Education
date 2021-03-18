@@ -3,6 +3,11 @@
   <img style="margin: -30px;" src="/images/logo.png"   /> 
 </p>
 
+<div style="float: right;"> 
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devops-education&repo=&countColorcountColor&countColor=%237B1E7A)
+
+</div> 
 
 It's a repository that contains a set of challenges in DevOps teaching. The objective is to help DevOps educators to teach DevOps. Some of theses challenges are found in the paper [Challenges and Recommendations in DevOps Education: A Systematic Literature Review](https://dl.acm.org/doi/abs/10.1145/3422392.3422496) published at the academic conference **SBES '20: Proceedings of the 34th Brazilian Symposium on Software Engineering**. 
 
@@ -29,12 +34,17 @@ and the prerequisite disciplines of this subject is also considered, as well
 as the interaction with the others of a software engineering course.
 ```
 
-- [C1] DevOps still received minor attention in higher education.
-- [C2] The time available to teach CD and CI is devoted to other concepts.
+- [_C1_] DevOps still received minor attention in higher education.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_C2_] The time available to teach CD and CI is devoted to other concepts.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 - [C3] Devops mindset should be considered to fine tune curricula.
 - [C4] Teaching DevOps is multidisciplinary and therefore crosscutting the traditional course boundaries.
-- [C5] The little time available to teaching complexities of CD and CI.
-- [C6] Courses teach “Dev” rather than “Ops”.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_C5_] The little time available to teaching complexities of CD and CI.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_C6_] Courses teach “Dev” rather than “Ops”.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 ### Tools
 ```
@@ -43,11 +53,16 @@ They can be those widely used in the industry or those created with a teaching
 standard.
 ```
 
-- [T1] DevOps tools are new and time-consuming for a universitary lecturer.
-- [T2] Some devops tools involve learning curve.
-- [T3] DevOps tools are complex.
-- [T4] Many DevOps tools for teacher to learn.
-- [T5] DevOps overhead of keeping up with the industrial state-of-the-art at universities is often too high.
+- [_T1_] DevOps tools are new and time-consuming for a universitary lecturer.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_T2_] Some devops tools involve learning curve.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_T3_] DevOps tools are complex.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_T4_] Many DevOps tools for teacher to learn.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_T5_] DevOps overhead of keeping up with the industrial state-of-the-art at universities is often too high.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 ### Assessment
 ```
@@ -55,18 +70,24 @@ The Assessment theme includes necessary and permanent didactic tasks in
 the teacher's work with the objective of diagnosing the learning situation 
 of each student, in relation to the curriculum.
 ```
-- [A1] Teaching DevOps mindset is difficult to assess.
-- [A2] DevOps increases evaluation workload for teachers.
+- [_A1_] Teaching DevOps mindset is difficult to assess.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_A2_] DevOps increases evaluation workload for teachers.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 ### Classes preparation
 ```
 The topic Classes preparation refers to the planning of the course, including, 
 for example, a research of reference material and preparation of classes.
 ```
-- [CP1] There is little research into effective teaching pratices for incorporating DevOps into traditional software engineer courses.
-- [CP2] Lack of a proper and sound theory of DevOps.
-- [CP3] DevOps has not yet standardized with the Software Engineerigin Body of Knowledge.
-- [CP4] Limited research in teaching DevOps.
+- [_CP1_] There is little research into effective teaching pratices for incorporating DevOps into traditional software engineer courses.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_CP2_] Lack of a proper and sound theory of DevOps.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_CP3_] DevOps has not yet standardized with the Software Engineerigin Body of Knowledge.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_CP4_] Limited research in teaching DevOps.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 
 ### Devops concepts
@@ -75,27 +96,36 @@ The DevOps Concepts are related to its main foundations, techniques
 and mentality (culture).
 ```
 
-- [DC1] Students have difficulties in explaining IaC.
-- [DC2] Teachers need to learn dev and opt activities.
-- [DC3] The main challenge was to find ways of emphasizing the Ops part of the approach.
-- [DC4] Teach DevOps mindset/cultural.
-- [DC5] Teachers need to learn operations.
-- [DC6] CD and related concepts are complex.
+- [_DC1_] Students have difficulties in explaining IaC.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_DC2_] Teachers need to learn dev and opt activities.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_DC3_] The main challenge was to find ways of emphasizing the Ops part of the approach.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_DC4_] Teach DevOps mindset/cultural.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_DC5_] Teachers need to learn operations.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_DC6_] CD and related concepts are complex.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 ### Environment setup
 ```
 The Environment setup theme refers to the preparatory activities 
 of the environments used in the practices of students' exercises and projects.
 ```
-- [ES1] DevOps requires complex and laborious architectures.
-- [ES2] Setup the tools and workflows increases the effort for educators.
+- [_ES1_] DevOps requires complex and laborious architectures.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
+- [_ES2_] Setup the tools and workflows increases the effort for educators.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 ### Pedagogy
 ```
 References to the subject of Pedagogy are related to a set of
 techniques, principles, methods and strategy for education and teaching.
 ```
-- [P1] How to set up the DevOps approach itself from scratch.
+- [_P1_] How to set up the DevOps approach itself from scratch.
+  - [(I like it 👍)]()  or  [(I don't like it 👎)]()   
 
 ## Contributors and contribute
 
