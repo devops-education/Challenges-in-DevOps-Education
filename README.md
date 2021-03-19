@@ -20,9 +20,6 @@
 <a href="https://github.com/devops-education/Challenges-in-Devops-Education/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
-<a href="https://discord.gg/HHMs7Eg" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=slack&style=flat-square" alt="join Slack community of DevOps Education"/>
-</a>
 </p>
 
 
