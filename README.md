@@ -8,9 +8,6 @@
 <a href="https://github.com/devops-education/Challenges-in-Devops-Education/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator licence" />
 </a>
-<a href="https://github.com/devops-education/Challenges-in-Devops-Education/fork" target="blank">
-<img src="https://img.shields.io/github/forks/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
@@ -63,7 +60,7 @@ standard.
 ```
 
 - [DevOps tools are new and time-consuming for a universitary lecturer.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/9)
-- [ome devops tools involve learning curve.]()
+- [Some DevOps tools involve learning curve.]()
 - [DevOps tools are complex.]()
 - [Many DevOps tools for teacher to learn.]()
 - [DevOps overhead of keeping up with the industrial state-of-the-art at universities is often too high.]()
