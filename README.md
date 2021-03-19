@@ -47,10 +47,10 @@ as the interaction with the others of a software engineering course.
 
 - [DevOps still received minor attention in higher education.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/3)
 - [The time available to teach CD and CI is devoted to other concepts.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/4)
-- [Devops mindset should be considered to fine tune curricula.]()
-- [Teaching DevOps is multidisciplinary and therefore crosscutting the traditional course boundaries.]()
-- [The little time available to teaching complexities of CD and CI.]()
-- [Courses teach “Dev” rather than “Ops”.]()
+- [Devops mindset should be considered to fine tune curricula.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/5)
+- [Teaching DevOps is multidisciplinary and therefore crosscutting the traditional course boundaries.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/6)
+- [The little time available to teaching complexities of CD and CI.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/7)
+- [Courses teach “Dev” rather than “Ops”.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/8)
 
 ### [Tools](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Atools+label%3Achallenge-existed+)
 ```
@@ -60,10 +60,10 @@ standard.
 ```
 
 - [DevOps tools are new and time-consuming for a universitary lecturer.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/9)
-- [Some DevOps tools involve learning curve.]()
-- [DevOps tools are complex.]()
-- [Many DevOps tools for teacher to learn.]()
-- [DevOps overhead of keeping up with the industrial state-of-the-art at universities is often too high.]()
+- [Some DevOps tools involve learning curve.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/10)
+- [DevOps tools are complex.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/11)
+- [Many DevOps tools for teacher to learn.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/12)
+- [DevOps overhead of keeping up with the industrial state-of-the-art at universities is often too high.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/13)
 
 ### [Assessment](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Aassessment+label%3Achallenge-existed+)
 ```
@@ -71,18 +71,18 @@ The Assessment theme includes necessary and permanent didactic tasks in
 the teacher's work with the objective of diagnosing the learning situation 
 of each student, in relation to the curriculum.
 ```
-- [Teaching DevOps mindset is difficult to assess.]()
-- [DevOps increases evaluation workload for teachers.]()
+- [Teaching DevOps mindset is difficult to assess.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/14)
+- [DevOps increases evaluation workload for teachers.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/15)
 
 ### [Classes preparation](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Aclasses-preparation+label%3Achallenge-existed+)
 ```
 The topic Classes preparation refers to the planning of the course, including, 
 for example, a research of reference material and preparation of classes.
 ```
-- [There is little research into effective teaching pratices for incorporating DevOps into traditional software engineer courses.]()
-- [Lack of a proper and sound theory of DevOps.]()
-- [DevOps has not yet standardized with the Software Engineerigin Body of Knowledge.]()
-- [Limited research in teaching DevOps.]()
+- [There is little research into effective teaching pratices for incorporating DevOps into traditional software engineer courses.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/16)
+- [Lack of a proper and sound theory of DevOps.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/17)
+- [DevOps has not yet standardized with the Software Engineering Body of Knowledge.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/18)
+- [Limited research in teaching DevOps.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/19)
 
 
 ### [Devops concepts](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Adevops-concepts+label%3Achallenge-existed+)
@@ -91,27 +91,27 @@ The DevOps Concepts are related to its main foundations, techniques
 and mentality (culture).
 ```
 
-- [Students have difficulties in explaining IaC.]()
-- [Teachers need to learn dev and opt activities.]()
-- [The main challenge was to find ways of emphasizing the Ops part of the approach.]()
-- [Teach DevOps mindset/cultural.]()
-- [Teachers need to learn operations.]()
-- [Continuous Delivery and related concepts are complex.]()
+- [Students have difficulties in explaining IaC.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/20)
+- [Teachers need to learn dev and opt activities.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/21)
+- [The main challenge was to find ways of emphasizing the Ops part of the approach.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/22)
+- [Teach DevOps mindset/cultural.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/23)
+- [Teachers need to learn operations.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/24)
+- [Continuous Delivery and related concepts are complex.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/25)
 
 ### [Environment setup](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Aenvironment-setup+label%3Achallenge-existed+)
 ```
 The Environment setup theme refers to the preparatory activities 
 of the environments used in the practices of students' exercises and projects.
 ```
-- [DevOps requires complex and laborious architectures.]()
-- [Setup the tools and workflows increases the effort for educators.]()
+- [DevOps requires complex and laborious architectures.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/26)
+- [Setup the tools and workflows increases the effort for educators.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/27)
 
 ### [Pedagogy](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Apedagogy+label%3Achallenge-existed+)
 ```
 References to the subject of Pedagogy are related to a set of
 techniques, principles, methods and strategy for education and teaching.
 ```
-- [How to set up the DevOps approach itself from scratch.]()
+- [How to set up the DevOps approach itself from scratch.](https://github.com/devops-education/Challenges-in-Devops-Education/issues/28)
 
 ## Contributors and contribute
 
