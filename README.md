@@ -123,3 +123,12 @@ You are more than welcome to contribute as well:
  - share your challenge (or recommendation) via issue or [Slack](https://devops-education.slack.com/archives/C01RJV66G4V)
  
 Please have a look at [CONTRIBUTING.md](https://github.com/devops-education/Challenges-in-Devops-Education/blob/main/CONTRIBUTING.md) for further suggestions and guidelines.
+
+## License
+
+This project is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+
+
+
