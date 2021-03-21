@@ -26,6 +26,7 @@ It's a repository that contains a set of challenges in DevOps teaching. The obje
 
 - [Challenges teaching DevOps](#challenges-teaching-devops) 
 - [Contributors and contribute](#contributors-and-contribute)
+- [License](#license)
 
 ## Challenges teaching DevOps
 
