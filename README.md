@@ -5,9 +5,6 @@
 
 <p align="center">
 
-<a href="https://github.com/devops-education/Challenges-in-Devops-Education/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator licence" />
-</a>
 <a href="https://github.com/devops-education/Challenges-in-Devops-Education/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/devops-education/Challenges-in-Devops-Education?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
